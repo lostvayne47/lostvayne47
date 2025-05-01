@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kamtikar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Family Expense Tracker**
+- 🔭 I’m currently working on **Springboot Project**
 
 - 🌱 I’m currently learning **Next Js**
 
