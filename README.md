@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Springboot Project**
 
-- 🌱 I’m currently learning **Next Js & Sprinigboot**
+- 🌱 I’m currently learning **Next Js & Springboot**
 
 - 🤝 I’m looking for help with **Testing cybersecurity guidelines for projects**
 
