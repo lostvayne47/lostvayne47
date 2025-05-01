@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Kamtikar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Springboot Project**
+- 🔭 I’m currently working on a **Springboot Project**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js & Sprinigboot**
 
 - 🤝 I’m looking for help with **Testing cybersecurity guidelines for projects**
 
